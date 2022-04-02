@@ -17,7 +17,6 @@ const root = ReactDOMClient.createRoot(destination);
 
 root.render(
   <div>
-    <h1>Hello</h1>
     <ToDoList />
   </div>
 );
